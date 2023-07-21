@@ -6,7 +6,7 @@ Software Developer
 
 *   🌍  I'm based in Haifa, Israel
 *   ✉️  You can contact me at [omrileizerovitch7@gmail.com](mailto:omrileizerovitch7@gmail.com)
-*
+  
 ### Skills 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
