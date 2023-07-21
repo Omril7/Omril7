@@ -10,16 +10,13 @@ Software Developer
 ### Skills 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" 
-         width="36" height="36" alt="C" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="36" alt="C"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" 
-      width="36" height="36" alt="C++" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36" height="36" alt="C++"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" 
-         width="36" height="36" alt="C#" />
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="36" height="36" alt="C#" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" alt="Python"/>
