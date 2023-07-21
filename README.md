@@ -38,7 +38,7 @@ Software Developer
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="36" height="36" alt="CSS3"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="36" height="36" alt="Bootstrap"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="36" alt="Bootstrap"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="36" height="36" alt="MySQL"/>
