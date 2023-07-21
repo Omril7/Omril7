@@ -5,7 +5,9 @@ Software Developer
 ------------------
 
 *   🌍  I'm based in Haifa, Israel
-*   ✉️  You can contact me at [omrileizerovitch7@gmail.com](mailto:omrileizerovitch7@gmail.com)### Skills 
+*   ✉️  You can contact me at [omrileizerovitch7@gmail.com](mailto:omrileizerovitch7@gmail.com)
+*
+### Skills 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" 
@@ -61,8 +63,6 @@ Software Developer
          width="32" height="32" />
   </a>
 </p>
-
-### Badges
 
 <a href="https://github.com/Omril7" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omril7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" 
