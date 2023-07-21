@@ -48,8 +48,7 @@ Software Developer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/omri-leizerovitch/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
-         width="32" height="32" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32"/>
   </a>
 </p>
 
