@@ -9,6 +9,8 @@ Software Developer
   
 ### Skills 
 <p align="left">
+  
+  ### Core
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36" height="36" alt="C"/>
   </a>
@@ -24,10 +26,12 @@ Software Developer
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="36" height="36" alt="Java"/>
   </a>
-  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="36" height="36" alt="JavaScript" />
   </a>
+  <br>
+
+  ### FrontEnd
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="36" height="36" alt="HTML5"/>
   </a>
@@ -38,9 +42,14 @@ Software Developer
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="36" alt="Bootstrap"/>
   </a>
   <br>
+
+  ### DataBase
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="36" height="36" alt="MySQL"/>
   </a>
+  <br>
+
+  ### Other
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="36" height="36" alt=".NET" />
   </a>
