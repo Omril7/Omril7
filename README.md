@@ -24,6 +24,7 @@ Software Developer
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="36" height="36" alt="Java"/>
   </a>
+  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="36" height="36" alt="JavaScript" />
   </a>
@@ -36,6 +37,7 @@ Software Developer
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="36" alt="Bootstrap"/>
   </a>
+  <br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="36" height="36" alt="MySQL"/>
   </a>
