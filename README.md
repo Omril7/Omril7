@@ -50,6 +50,6 @@ Software Developer
 </p>
 
 <a href="https://github.com/Omril7" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omril7&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omril7&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" 
     alt="Top Languages" />
 </a>
