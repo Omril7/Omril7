@@ -1,4 +1,4 @@
-Hi! My name is Omri Leizerovitch
+My name is Omri Leizerovitch
 =========================================================================================================================================
 
 Software Developer
