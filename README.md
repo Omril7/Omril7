@@ -40,6 +40,9 @@ Software Developer
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="36" alt="React"/>
   </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/reactnative.svg" width="40" height="36" alt="React Native"/>
+  </a>
   <br/>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="36" alt="Bootstrap"/>
