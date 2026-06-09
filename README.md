@@ -72,9 +72,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://lights-and-vessels.vercel.app/">
-        <img src="assets/logo-lights-and-vessels.png" height="120" alt="Lights & Vessels"/>
-      </a>
+      <div style="background-color:#1e1e2e;display:inline-block;padding:14px;border-radius:10px;">
+        <a href="https://lights-and-vessels.vercel.app/">
+          <img src="assets/logo-lights-and-vessels.png" height="100" alt="Lights & Vessels"/>
+        </a>
+      </div>
       <h3>Lights &amp; Vessels — E-Commerce Store</h3>
       <p>A curated gallery-style e-commerce platform for a handmade crafts &amp; jewelry artist. Features a public storefront and a private admin panel so the artist can manage products, orders, and inventory — all without touching code. Integrated with <strong>Morning (Green Invoice)</strong> for payments and tax documents.</p>
       <a href="https://lights-and-vessels.vercel.app/">
@@ -88,9 +90,11 @@
       <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextAuth"/>
     </td>
     <td width="50%" valign="top">
-      <a href="https://luma-manager.vercel.app/">
-        <img src="assets/logo-luma.png" height="120" alt="Luma Manager"/>
-      </a>
+      <div style="background-color:#1e1e2e;display:inline-block;padding:14px;border-radius:10px;">
+        <a href="https://luma-manager.vercel.app/">
+          <img src="assets/logo-luma.png" height="100" alt="Luma Manager"/>
+        </a>
+      </div>
       <h3>Luma Manager — Business Financial Manager</h3>
       <p>A comprehensive financial management platform for business owners — featuring income/expense tracking, calendar-based scheduling, visual analytics, document storage, and automated email notifications. Built with full RTL support for Hebrew-speaking clients.</p>
       <a href="https://luma-manager.vercel.app/">
